@@ -1,6 +1,6 @@
-- 👋 I’m @modibafmt
+- 👋 I’m Maimela Modiba, My hoding is @modibafmt
 - 🌐 Residing in South Africa, Johannesburg.
-- 📚 I’m currently learning BI, SQL and Python
+- 📚 I’m currently upskilling in BI, SQL and Python
 - 📫 How you can reach me on guthub. 
 
 <!---
